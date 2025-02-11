@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-Este es un proyecto de ejemplo. Puedes encontrar el código principal aquí:
+Este es mi proyecto de Pandas. Puedes encontrar el código principal aquí:
 
 👉 [Ver código principal](https://github.com/juancamacho-otf/Pandas/blob/master/Pandas.ipynb)
 
