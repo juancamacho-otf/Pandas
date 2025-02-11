@@ -2,11 +2,11 @@
 
 Este es un proyecto de ejemplo. Puedes encontrar el código principal aquí:
 
-👉 [Ver código principal](./src/Pandas.ipynb)
+👉 [Ver código principal](https://github.com/juancamacho-otf/Pandas/blob/master/Pandas.ipynb)
 
 ## Instalación
 
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/usuario/mi-repo.git
+   https://github.com/juancamacho-otf/Pandas.git
