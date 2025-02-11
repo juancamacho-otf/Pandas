@@ -1,4 +1,4 @@
-# Mi Proyecto
+# Mi Proyecto Pandas
 
 Este es mi proyecto de Pandas. Puedes encontrar el código principal aquí:
 
